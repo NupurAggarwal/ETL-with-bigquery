@@ -1,0 +1,33 @@
+{
+    "fields": [{
+        "name": "cdc_report_dt",
+        "type": "STRING"
+    }, {
+        "name": "pos_spec_dt",
+        "type": "STRING"
+    }, {
+        "name": "onset_dt",
+        "type": "STRING"
+    }, {
+        "name": "current_status",
+        "type": "STRING"
+    }, {
+        "name": "sex",
+        "type": "STRING"
+    }, {
+        "name": "age_group",
+        "type": "STRING"
+    }, {
+        "name": "hosp_yn",
+        "type": "STRING"
+    }, {
+        "name": "icu_yn",
+        "type": "STRING"
+    }, {
+        "name": "death_yn",
+        "type": "STRING"
+    }, {
+        "name": "medcond_yn",
+        "type": "STRING"
+    }]
+}
